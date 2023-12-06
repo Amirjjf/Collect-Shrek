@@ -1,11 +1,3 @@
-// I have used some helps and suggestions from AI in this code 
-
-
-//Eat Shrek to increase your score
-//avoid the fire or falling down 
-//shoot stars at fires to kill them (press spacebar)
-//P.S. I have created a better way to randomize the creation of the platforms 
-
 
 let game;
 
